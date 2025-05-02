@@ -52,7 +52,7 @@ Target:  180.00 Filtered:  179.02 Current:  175.36 Error%:   2.58
 
 ---
 
-### 2. `raspi5_tcp_persistent_sender.py` (送信側：Raspberry Pi 5)
+### 2. `raspi5.py` (送信側：Raspberry Pi 5)
 
 #### 概要
 
