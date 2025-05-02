@@ -14,7 +14,7 @@
 
 ## 📁 ファイル構成
 
-### 1. `pico_motor_pid.py` (ハードウェア：Pico W)
+### 1. `picoW.py` (ハードウェア：Pico W)
 
 #### 概要
 
